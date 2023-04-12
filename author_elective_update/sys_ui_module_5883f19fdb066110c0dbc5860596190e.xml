@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="TEST">d483b19fdb066110c0dbc586059619cd</application>
+        <filter/>
+        <name>TESTs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 08:55:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5883f19fdb066110c0dbc5860596190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TESTs</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_5883f19fdb066110c0dbc5860596190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 08:55:51</sys_updated_on>
+        <table>x_58872_needit_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a6dfc5eadb3c7744387021c405961929</instance_id>
+        <instance_name>dev81448</instance_name>
+        <name>sys_ui_module_5883f19fdb066110c0dbc5860596190e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="TEST">d483b19fdb066110c0dbc586059619cd</application><filter/><name>TESTs</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.test_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-12 08:55:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5883f19fdb066110c0dbc5860596190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TESTs</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_5883f19fdb066110c0dbc5860596190e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-12 08:55:51</sys_updated_on><table>x_58872_needit_test</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1189214561</payload_hash>
+        <record_name>TESTs</record_name>
+        <reverted_from/>
+        <source>2414219bdbc26110c0dbc586059619b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 08:55:51</sys_created_on>
+        <sys_id>5483f19fdb066110c0dbc58605961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18774adacdd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 08:55:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9883f19feb06611006a1129e66976210</update_guid>
+        <update_guid_history>9883f19feb06611006a1129e66976210:1189214561</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 09:03:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>35dd2573c86046689338956dddc0ab44</sys_id>
+        <sys_metadata>5883f19fdb066110c0dbc5860596190e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TESTs</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_5883f19fdb066110c0dbc5860596190e</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_5883f19fdb066110c0dbc5860596190e">5483f19fdb066110c0dbc58605961911</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 09:03:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
